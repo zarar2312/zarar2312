@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **cloudup**
 
-- 🌱 I’m currently learning **sapphirejs, React, Nextjs**
+- 🌱 I’m currently learning **sapphirejs, React, Nextjs, Express.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
