@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Private**
 
-- 🌱 I’m currently learning **sapphirejs, React, Nextjs, Express.js, Nuxt**
+- 🌱 I’m currently learning **sapphirejs, React, Nextjs, Nuxt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
