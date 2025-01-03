@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Private**
 
-- 🌱 I’m currently learning **Nextjs, Nuxt**
+- 🌱 I’m currently learning **Nextjs, Nuxt, Vue, Vitepress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
